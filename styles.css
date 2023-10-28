@@ -1,1 +1,31 @@
 /* your code here */
+/* styles.css */
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer-section {
+    flex: 1;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Add media icons and styles for responsiveness */
